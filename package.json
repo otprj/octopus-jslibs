@@ -2,6 +2,9 @@
   "devDependencies": {
     "jspm": "^0.16.19"
   },
+  "directories": {
+    "lib": "lib"
+  },
   "jspm": {
     "jspmNodeConversion": false,
     "dependencies": {
